@@ -1,28 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+👋Hey, I'm a second-year computer science student from Ireland. Right now, I'm diving into Lua and FiveM development.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cfm200&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cfm200&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cfm200&show_icons=true" />
-</picture>
 
-<!--
-**cfm200/cfm200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cfm200&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cfm200&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cfm200&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cfm200&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=cfm200&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
